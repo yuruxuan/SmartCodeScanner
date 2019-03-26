@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QRCode Scanner</string>
+    <string name="scan_qr_code">QR Code</string>
+    <string name="scan_bar_code">Bar Code</string>
+    <string name="history_record">History</string>
+    <string name="about">About</string>
+    <string name="no_camera_permission">You do not have permission to open the camera.</string>
+    <string name="no_storage_permission">You do not have permission to open and write storage devices.</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="copy_content">Copy Content</string>
+    <string name="save_pic">Save Picture</string>
+    <string name="visit_url">Visit Url</string>
+    <string name="share_content">Share Content</string>
+    <string name="has_copy_to_board">The scan results have been copied to the clipboard.</string>
+    <string name="save_success">Save Succeed.</string>
+    <string name="save_failed">Save Failed</string>
+    <string name="share_to">Share</string>
+    <string name="qr_code">QR Code</string>
+    <string name="bar_code">Bar Code</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">扫码助手</string>
+    <string name="scan_qr_code">扫描二维码</string>
+    <string name="scan_bar_code">扫描条形码</string>
+    <string name="history_record">历史记录</string>
+    <string name="about">关于</string>
+    <string name="no_camera_permission">您没有开启摄像头权限</string>
+    <string name="no_storage_permission">您没有开启读写存储设备的权限</string>
+    <string name="scan_result">扫描结果</string>
+    <string name="copy_content">复制内容</string>
+    <string name="save_pic">保存图片</string>
+    <string name="visit_url">访问网址</string>
+    <string name="share_content">分享内容</string>
+    <string name="has_copy_to_board">扫描结果已经复制到剪切板</string>
+    <string name="save_success">保存成功</string>
+    <string name="save_failed">保存失败</string>
+    <string name="share_to">分享到</string>
+    <string name="qr_code">二维码</string>
+    <string name="bar_code">条形码</string>
+</resources>
