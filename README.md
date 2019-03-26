@@ -9,8 +9,8 @@ A pure scan code software is just to improve work efficiency, the software does 
 [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)  
 
 ## Contributing（贡献）
-Welcome to submit pull request.
-欢迎大家提交PL。
+Welcome to submit pull request.  
+欢迎大家一起维护这个项目。
 
 ## License(协议)
     Copyright 2019 The SmartCodeScanner authors
