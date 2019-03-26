@@ -1,19 +1,22 @@
 # SmartCodeScanner（扫码助手）
 
-![pic.png](https://github.com/yuruxuan/SmartCodeScanner/blob/master/pic.png)  
-
 A pure scan code software is just to improve work efficiency, the software does not require network permissions, no ads.  
 一个纯净的扫码软件，仅仅就是为了提高工作效率，该软件不需要网络权限，也没有任何广告，并且提供源代码。
-
+  
+![pic.png](https://github.com/yuruxuan/SmartCodeScanner/blob/master/pic.png)  
+  
+  
 ## Library（库）
 [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)  
 [yuzhiqiang1993/zxing](https://github.com/yuzhiqiang1993/zxing)  
 [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)  
-
+  
+  
 ## Contributing（贡献）
 Welcome to submit pull request.  
 欢迎大家一起维护这个项目。
-
+  
+  
 ## License(协议)
     Copyright 2019 The SmartCodeScanner authors
 
