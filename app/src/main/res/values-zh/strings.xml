@@ -17,4 +17,6 @@
     <string name="share_to">分享到</string>
     <string name="qr_code">二维码</string>
     <string name="bar_code">条形码</string>
+    <string name="about_tip_1">一个纯净的扫码软件，仅仅就是为了提高工作效率，该软件不需要网络权限，也没有任何广告，并且提供源代码。</string>
+    <string name="about_tip_2">源码地址：https://github.com/yuruxuan/SmartCodeScanner</string>
 </resources>
