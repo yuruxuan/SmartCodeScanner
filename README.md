@@ -19,7 +19,7 @@ Welcome to submit pull request.
 欢迎大家一起维护这个项目。
   
     
-## License(协议)
+## License（协议）
     Copyright 2019 The SmartCodeScanner authors
 
     Licensed under the Apache License, Version 2.0 (the "License");
