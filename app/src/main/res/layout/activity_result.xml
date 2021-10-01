@@ -10,7 +10,7 @@
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary">
 
-        <android.support.v7.widget.AppCompatImageView
+        <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/image_back"
             android:layout_width="42dp"
             android:layout_height="match_parent"
@@ -50,9 +50,11 @@
             android:layout_marginStart="12dp"
             android:layout_marginTop="12dp"
             android:layout_marginEnd="12dp"
-            android:textColor="#4E4E4E"
             android:gravity="center_horizontal"
             android:lineSpacingExtra="4dp"
+            android:maxHeight="280dp"
+            android:scrollbars="vertical"
+            android:textColor="#4E4E4E"
             android:textStyle="bold" />
 
         <LinearLayout

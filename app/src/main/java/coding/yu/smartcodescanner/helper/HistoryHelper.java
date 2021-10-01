@@ -1,17 +1,8 @@
 package coding.yu.smartcodescanner.helper;
 
-import android.util.Log;
-import android.util.SparseArray;
-
 import com.blankj.utilcode.util.CacheDiskUtils;
 import com.blankj.utilcode.util.GsonUtils;
-import com.blankj.utilcode.util.SPUtils;
-import com.google.gson.reflect.TypeToken;
 
-import org.json.JSONArray;
-import org.json.JSONObject;
-
-import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
